@@ -3,7 +3,7 @@
 ____
 - 🔭 I’m currently working at LUXREC LTD Mobile Games Studio.
 - 🌱 I’m currently learning Data Science, Cloud Computing, Linux and Python.
-- 🎓 I am studying for a data science master's degree.
+- 🎓 I am passionate about Data Science, Data Analytics and Machine Learning.
 - 📫 How to reach me: h.almofty@gmail.com or via <a href="https://www.linkedin.com/in/homam-almofty/"> Linkedin</a>.
 - ⚡ Fun fact: I like Food, Tennis and Learning new things.
 
